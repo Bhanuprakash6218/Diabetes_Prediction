@@ -16,6 +16,8 @@ Based on the given dataset it's been classified whether the person is diabetic o
 7. DIABETES PEDIGREE FUNCTION
 
 8. AGE
+
+
 Algorithms applied are:
 
 1. LOGISTIC REGRESSION
@@ -23,4 +25,6 @@ Algorithms applied are:
 2. NEAREST NEIGHBOR
 
 3. RANDOM FOREST
+
+
 Accuracy is a common evaluation metric for classification problems. It's the number of correct predictions made as a ratio of all predictions made
